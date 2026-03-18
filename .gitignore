@@ -1,0 +1,7 @@
+__pycache__
+apks
+venv/
+.venv/
+env/
+bin/
+lib/
